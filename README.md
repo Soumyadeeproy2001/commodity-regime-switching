@@ -1,7 +1,6 @@
 # Regime-Switching Dynamic Portfolio Allocation on Commodity Futures
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/https://github.com/Soumyadeeproy2001/commodity-regime-switching/commodity-regime-switching/blob/main/Regime_switch_fixed.ipynb)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Soumyadeeproy2001/commodity-regime-switching/blob/main/Regime_switch_fixed.ipynb)
 A Python research notebook that asks one question:
 
 > **Can a portfolio beat a fixed Markowitz portfolio by detecting the market's regime (mood) and changing its commodity weights accordingly?**
